@@ -1,0 +1,21 @@
+# FPGA / HDL tool-generated files
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.rpt
+*.dcp
+*.bit
+*.bin
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.ip_user_files/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
